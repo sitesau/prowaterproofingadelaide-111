@@ -1,0 +1,22 @@
+{
+  "wheel_id": 916,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-111",
+  "project": "waterproofing-adelaide-beginner-guide-0056fab3a21a85bacb2ee6e8b",
+  "parent_t1_ref": "prowaterproofingadelaide-155",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide beginner guide",
+  "intended_url": "https://sitesau.github.io/prowaterproofingadelaide-111/",
+  "tier": "T2",
+  "writeback_nonce": "a360d938c641ff03",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/waterproofing-adelaide-what-to-expect-ec490bf6afa40d9295cf7bfb9/",
+      "anchor": "the waterproofing adelaide what to expect overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
